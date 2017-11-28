@@ -56,7 +56,7 @@ Download the executalable binary file: [FR_PIMNet_v2.0.zip](http://imlab.postech
   * This software is tested on Microsoft Windows 7 and 8.1 (64bit).
   * At least 6GB gpu memory is required (NVIDIA Titan black, X, and Tesla K20 are used for testing).
  #### Dependencies
-  * NVIDIA CUDA 5.0, cuDNN 8
+  * NVIDIA CUDA 8.0, cuDNN 5.0
   * OpenCV 3.1
   * Caffe-windows
   
