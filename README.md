@@ -1,7 +1,7 @@
 ## PIMNet_FR
 Created by [Bong-Nam Kang](https://sites.google.com/view/bnkang/home) and [Daijin Kim](http://imlab.postech.ac.kr/members_d.htm) at [POSTECH IM Lab](http://imlab.postech.ac.kr)
 
-Porject page: [https://sites.google.com/view/bnkang/research/face-recognition-using-deep-neural-networks]
+Project page: [https://sites.google.com/view/bnkang/research/face-recognition-using-deep-neural-networks]
 
 
 ### Overview
